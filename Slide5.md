@@ -1,4 +1,13 @@
-# Git Commands
+# VS Code Practice
+
+## VS Code Commands
+
+1. open terminal
+2. mkdir
+3. touch
+
+## Git Commands
+
 1. init
 2. clone
 3. status
